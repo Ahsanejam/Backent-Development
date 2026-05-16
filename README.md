@@ -1,4 +1,6 @@
-# Backend Development 
+|----------------------|
+|# Backend Development |
+|----------------------|
 
 This is my Backend Development codes and repo..
 
@@ -7,4 +9,8 @@ I will add my second backend development file..
 So I will also add one more file in this repo..
 
 # Today Date 16/05/2026 i will add new file in repo this the homework file...
+------------------------------------------------------------------------------
 Today i add new homework file...
+I this file i am learning about different types of request parameters like req.params and reqs.query so that i can use to build different
+page website and i was also learning like views public includes, ejs -> express javascirpt templates
+and I make my own profile like skills education hobbies 

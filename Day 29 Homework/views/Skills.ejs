@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <h1>Hello <%= username %> Your skills is there</h1>
+    <hr>
+    <div class="skills">
+        <button>Click me!</button>
+        <h1>Skills</h1>
+        <ul>
+            <h2>Programming</h2>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Node js</li>
+            <li>Express js</li>
+            <li>Python </li>
+            <li>Java</li>
+            <li>C++ </li>
+        </ul>
+
+    </div>
+    <hr>
+    <div class="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>DATA Visualisation : like I extract weather data and see the temperature of any country</li>
+            <li>Build Games: Simon Games</li>
+            <li>ASCII Convertor</li>
+            <li>Upper text to Lower text convertor </li>
+
+        </ul>
+        &nbsp;
+        &nbsp;
+        <hr>
+        <%- include("includes/footer.ejs") %>
+    </div>
+    <script src="/app.js"></script>
+</body>
+</html>

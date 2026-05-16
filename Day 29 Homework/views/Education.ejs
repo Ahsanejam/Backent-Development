@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <h1>Hello <%= username %> Welcome to see your Education</h1>
+    <hr>
+    <ul>
+        <button>Click me!</button>
+        <h2>Scholling (Class 10) </h2>
+        <li>DAV Anil Public School</li>
+        <h2>Subjects in (Class 10)</h2>
+        <li>Maths</li>
+        <li>Science</li>
+        <li>Hindi</li>
+        <li>English</li>
+        <li>Social Science</li>
+        <h2>CGPA</h2>
+        <li>7</li>
+
+        <h2>Extra Curriculam Activity </h2>
+        <li>Playing Chess</li>
+    </ul>
+    <hr>
+    <div class="HighSchool">
+        <h1>HIGH School</h1>
+        <span> 
+            I complete my high scholling in STANNES College Mandar
+            <p>CGPA</p> 
+            <p>7</p>
+        </span>
+    </div>
+    <hr>
+    <div class="coolege">
+        <h1>I Complete my undergraduate in RLSY College Ranchi</h1>
+        <span>Course Name : BCA </span>
+        <span>CGPA : 7.5</span>
+        &nbsp; &nbsp; <hr>
+        <%- include("includes/footer.ejs") %>
+    </div>
+    <script src="/app.js"></script>
+    
+</body>
+</html>

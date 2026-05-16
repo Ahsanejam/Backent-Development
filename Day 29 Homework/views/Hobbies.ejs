@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hobbies</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <h1>Hello <%= username %> your Hobbies </h1>
+    <div class="hobbies">
+        <h1>Hobbies</h1>
+        <button>Click me!</button>
+        <ul>
+            <li>Playing Chess</li>
+            &nbsp;
+            <li>I Like Porgramming</li>
+            &nbsp;
+            <li>I Like Mathematics</li>
+            &nbsp;
+            <li>I Like to play football</li>
+            &nbsp;
+        </ul>
+        <h2>Educational Hobbies means Hobbies belongs to education</h2>
+        &nbsp;
+        <ul>
+            <li>
+                I Like Math Subject
+            </li>
+            &nbsp;
+            <li>Philosophy</li>
+            &nbsp;
+            <li>Psychology</li>
+            &nbsp;
+        </ul>
+        &nbsp;
+        &nbsp;
+        <hr>
+        <%- include("includes/footer.ejs") %>
+    </div>
+    <script src="/app.js"></script>
+</body>
+</html>

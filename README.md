@@ -18,6 +18,6 @@ and I make my own profile like skills education hobbies
 # I Will add another file..
 -----------------------------------------
 So in this file i will learn about how to access data in app.post() 
-and I will learn about OOPS 
+and I will learn about OOPS ...
 like object prototype, Factory function , Constructors, Classes& Objects and constructors and Inheritance
 

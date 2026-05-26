@@ -30,3 +30,20 @@ And in this website i also connect differenct ejs each other like
 If you want to deleter update add users you can do it
 Basically i learn CRUD operation and REST , RESTful API
 
+|-------------------------------|
+|SQL (STRUCTURED QUERY LANGUAGE |
+|-------------------------------|
+So I learn SQl and MY SQL in MYSQL Workbenck and i learn to create database tables and i understand the difference between
+My SQL and like other databases like mongo db 
+
+SQL Stores data in tables like rows and column form but IN Mongodb and other like programming language stores data like
+in graph ,dictionary ,json other stuff 
+
+MY SQL is database 
+
+So I Learn to create database make tables and how to insert value on them and how to access them 
+learn about SQL DATA Types , Constraints , Primary Key, Foreign Key 
+
+You know like first time i learn primary key and Foreigh key i have lot of doubt so i use ai and ask a lot 
+of Question then i understand correctly and i do homework to create a database on your own and make tables
+on them and insert data on them and print them and I found out very excited about it ........................

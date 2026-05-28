@@ -46,4 +46,4 @@ learn about SQL DATA Types , Constraints , Primary Key, Foreign Key
 
 You know like first time i learn primary key and Foreigh key i have lot of doubt so i use ai and ask a lot 
 of Question then i understand correctly and i do homework to create a database on your own and make tables
-on them and insert data on them and print them and I found out very excited about it 
+on them and insert data on them and print them and I found out very excited about it ---------------------

@@ -49,4 +49,3 @@ of Question then i understand correctly and i do homework to create a database o
 on them and insert data on them and print them and I found out very excited about it --------------
 
 So I also study in SQL about you know conditions like access data but for this condition and grouping 
----------------------------------

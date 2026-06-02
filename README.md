@@ -49,3 +49,15 @@ of Question then i understand correctly and i do homework to create a database o
 on them and insert data on them and print them and I found out very excited about it --------------
 
 So I also study in SQL about you know conditions like access data but for this condition and grouping 
+|--------|
+|WHERE   |
+|--------|
+I recently learn about you know where in SQL it means like conditions you can access table but with some 
+condition like where followers > 100 AND following > 100 like this condition and the table only show that 
+and i learn about AND OR NOT IN BETWEEN like this in SQL GROUPING , HAVING and like and 
+
+|------------------|
+|AGGREGATE FUNCTION|
+|------------------|
+Basically it is in build function in sql to find like average, sum, count , max in table 
+

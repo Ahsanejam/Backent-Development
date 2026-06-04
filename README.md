@@ -65,5 +65,5 @@ and i learn about AND OR NOT IN BETWEEN like this in SQL GROUPING , HAVING and l
 |------------------|
 |AGGREGATE FUNCTION|
 |------------------|
-Basically it is in build function in sql to find like average, sum, count , max in table 
+Basically it is in build function in sql to find like average, sum, count , max in table.
 

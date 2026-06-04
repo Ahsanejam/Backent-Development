@@ -30,6 +30,12 @@ And in this website i also connect differenct ejs each other like
 If you want to deleter update add users you can do it
 Basically i learn CRUD operation and REST , RESTful API
 
+
+|-------------|
+|DATABASE     |
+|-------------|
+
+
 |-------------------------------|
 |SQL (STRUCTURED QUERY LANGUAGE |
 |-------------------------------|

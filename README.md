@@ -68,4 +68,4 @@ and i learn about AND OR NOT IN BETWEEN like this in SQL GROUPING , HAVING and l
 Basically it is in build function in sql to find like average, sum, count , max in table.
 
 Then I learn abour Limit clause ,General Order, Update table, Delete Table, Alter Table, Truncate Table, and then 
-I do lot of practice questions 
+I do lot of practice questions ..

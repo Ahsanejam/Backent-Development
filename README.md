@@ -70,4 +70,4 @@ Basically it is in build function in sql to find like average, sum, count , max 
 Then I learn abour Limit clause ,General Order, Update table, Delete Table, Alter Table, Truncate Table, and then 
 I do lot of practice questions ..
 
-And then we start to learn abour how to use sql data in node js.....
+And then we start to learn abour how to use sql data in node js..

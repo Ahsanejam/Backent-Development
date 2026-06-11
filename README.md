@@ -71,3 +71,6 @@ Then I learn abour Limit clause ,General Order, Update table, Delete Table, Alte
 I do lot of practice questions ..
 
 And then we start to learn abour how to use sql data in node js..
+
+So I learn how to connect database like mysql database to node js
+

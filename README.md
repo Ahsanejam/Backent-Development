@@ -74,3 +74,13 @@ And then we start to learn abour how to use sql data in node js..
 
 So I learn how to connect database like mysql database to node js
 
+You kno i learn about lot of things like how to use data base using node and express and like how to see tables how to create it 
+insert it and i also learn about how to use database in in vscode you don't need sql workbench you open vs code and then use insert data 
+update delete 
+
+and then i also learn how to insert bunch of data using express and sql queries and then i make a simple project like 
+
+to show you database data in web using ejs i learn about lot of this there and then i make a simple page that you can
+edit ,insert, delete and show you data and this take me a whole night literally i can't imagine how much fun i do i write code then 
+it fail and then i write mext one and it also fail i google you know a lot of things then i understand this......
+You can see my code in Day 32 file 

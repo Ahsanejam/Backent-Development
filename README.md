@@ -84,3 +84,8 @@ to show you database data in web using ejs i learn about lot of this there and t
 edit ,insert, delete and show you data and this take me a whole night literally i can't imagine how much fun i do i write code then 
 it fail and then i write mext one and it also fail i google you know a lot of things then i understand this......
 You can see my code in Day 32 file ...
+
+
+|---------------|
+|MongoDB        |
+|---------------|

@@ -90,3 +90,10 @@ You can see my code in Day 32 file ...
 |MongoDB        |
 |---------------|
 So I start learn MondoDb............
+
+I learn about how to store data in Mongobd like and how to print that data 
+Mongodb stores data in Bson format when we insert data in mondodb it looks like json format but after storing data
+it convert to bson Bson means Binary json mongodb store and read data only for machines 
+in SQl any human can see data and tell that what's going on here but MongoDb is only readable for machines 
+MongoBd also give access to much more data types String, boolean, number (integer, float, long, decimal128...), array, null, date, BinData
+like this but on the other hand json only support only for String, boolean, number, array, object, null

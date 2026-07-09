@@ -96,4 +96,4 @@ Mongodb stores data in Bson format when we insert data in mondodb it looks like 
 it convert to bson Bson means Binary json mongodb store and read data only for machines 
 in SQl any human can see data and tell that what's going on here but MongoDb is only readable for machines 
 MongoBd also give access to much more data types String, boolean, number (integer, float, long, decimal128...), array, null, date, BinData
-like this but on the other hand json only support only for String, boolean, number, array, object, null
+like this but on the other hand json only support only for String, boolean, number, array, object, null.......

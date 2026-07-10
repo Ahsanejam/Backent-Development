@@ -97,3 +97,7 @@ it convert to bson Bson means Binary json mongodb store and read data only for m
 in SQl any human can see data and tell that what's going on here but MongoDb is only readable for machines 
 MongoBd also give access to much more data types String, boolean, number (integer, float, long, decimal128...), array, null, date, BinData
 like this but on the other hand json only support only for String, boolean, number, array, object, null.......
+
+
+and I also learn like how to insert bunch of data like insertMany() data in mongodb and Also Find in mongoDb
+and Query operators in MongoDb 

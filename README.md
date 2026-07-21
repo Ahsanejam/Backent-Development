@@ -101,3 +101,8 @@ like this but on the other hand json only support only for String, boolean, numb
 
 and I also learn like how to insert bunch of data like insertMany() data in mongodb and Also Find in mongoDb
 and Query operators in MongoDb 
+
+# MongoDB to node js
+I learn about how to connect mongoDb to node js so that we can run all the commands that mongodb has like Creat Read Update Delete
+and I also learn about schema like how to define structure of our document and through that structure we insert data in mongodb
+

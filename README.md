@@ -114,3 +114,4 @@ first i setup and then i try to make a simple chat app where you can create read
 
 #Index route 
 First we start with index route means we will see all the chats who send who reveived date and time everything 
+......

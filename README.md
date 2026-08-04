@@ -113,8 +113,9 @@ and I also learn about schema in update and validate erroe or i can say that cus
 first i setup and then i try to make a simple chat app where you can create read update  and delete means i perform crud operations on it
 
 #Index route 
+
 First we start with index route means we will see all the chats who send who recieved date and time everything 
 and then create route in this route you can create a new data 
 Update route for update the exesting data
-And delete route for deleting the data 
+And delete route for deleting the data ....
 
